@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Cold Coffee</title>
+</head>
+
+<body>
+
+<h1>Cold Coffee ☕</h1>
+
+<img src="coffee.jpg" width="250">
+
+<p>Price: ₹80</p>
+
+<p><strong>Refreshing</strong> and <em>Tasty</em> drink</p>
+
+<h2>Order Now</h2>
+
+<form action="feedback.html">
+
+<label>Name</label><br>
+<input placeholder="Enter your name"><br><br>
+
+<label>Quantity</label><br>
+<input type="number" placeholder="Enter quantity"><br><br>
+
+<label>Date</label><br>
+<input type="date"><br><br>
+
+<label>Message</label><br>
+<textarea placeholder="Any message"></textarea><br><br>
+
+<input type="checkbox"> Confirm Order<br><br>
+
+<button type="submit">Order</button>
+
+</form>
+
+<br>
+
+<a href="menu.html">Back to Menu</a>
+
+</body>
+</html>
